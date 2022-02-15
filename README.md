@@ -1,2 +1,2 @@
-# goit-markup-hw-06
-Repositiry of homework#6
+# goit-markup-hw-02
+Repository of #2Homework
